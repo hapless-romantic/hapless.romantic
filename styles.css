@@ -8,9 +8,14 @@
   color: white;
   text-shadow:2px 2px black;
 }
+.title a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
 
 body {
   margin: 0;
+  background-color: black;
 }
 
 
@@ -48,17 +53,31 @@ body {
 }
 
 .flip-card-front {
-
   color: black;
 }
 
 .flip-card-back {
-  
   color: white;
   transform: rotateY(180deg);
 }
 
+ol {
+  position: relative;
+  top: 80px;
+  text-align: center;
+  color: white;
+  list-style-position: inside;
+}
+
+li a{
+  color: white;
+  text-decoration: none;
+}
+
 footer {
-  color:black;
+  color:white;
   height: 30px;
+  background-color: pink;
+  position: relative;
+  top: 100px;
 }
