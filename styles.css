@@ -26,7 +26,7 @@ body {
   perspective: 1000px;
   position: relative;
   left: 33%;
-  top: 70px;
+  top: 60px;
 }
 
 .flip-card-inner {
@@ -75,7 +75,8 @@ li a{
 }
 
 footer {
-  color:white;
+  color:black;
+  text-align: center;
   height: 30px;
   background-color: pink;
   position: relative;

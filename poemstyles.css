@@ -1,0 +1,64 @@
+.title {
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 179, 191);
+  height: 80px;
+  color: white;
+  text-shadow:2px 2px black;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  top: 50px;
+}
+
+.poem {
+  color: white;
+  position: relative;
+  top: 80px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+button {
+  color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  text-align: center;
+  position: relative;
+  top: 70px;
+
+}
+button a {
+  text-decoration: none;
+}
+
+.warning {
+  color: white;
+  position: relative;
+  top:60px;
+  text-align: center;
+  text-decoration: none;
+}
+
+footer {
+  color:black;
+  text-align: center;
+  height: 30px;
+  background-color: pink;
+  position: relative;
+  top: 100px;
+}
