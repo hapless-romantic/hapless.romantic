@@ -44,9 +44,14 @@ img {
 
 pre {
   color: white;
-  text-align: center;
+  position: relative;
+  left: 35%;
   margin-bottom: 100px; 
   font-family: 'Times New Roman', Times, serif;
+}
+pre a {
+  text-decoration: none;
+  color: white;
 }
 
 .songs {

@@ -9,4 +9,9 @@ Today would've been our 1 year anniversary
 Increase size of emojis:
 make a new <p> for the emojis and use same css formatting as .warning
 
-Add a <- Back button to return to homepage
+Add a <Prev and Next> poem button options on left/right sides
+at the bottom of the page
+
+Center the list of poem titles on main page.
+
+Fix spacing between end of poem and Songs button
