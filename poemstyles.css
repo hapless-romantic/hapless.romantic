@@ -62,14 +62,12 @@ body {
 }
 
 .flip-card-back {
-  color: white;
   transform: rotateY(180deg);
 }
 .flip-card-back pre {
   text-align: center;
   position: relative;
   left: -20px;
-
 }
 
 .poem {
@@ -140,10 +138,6 @@ a:hover:not(.title a) {
   margin-right: 25px;
   position: relative;
   bottom: -19px;
-}
-
-.round {
-  border-radius: 50%;
 }
 
 footer {
