@@ -61,6 +61,12 @@ body {
 .flip-card-back {
   transform: rotateY(180deg);
 }
+.flip-card-back pre {
+  text-align: center;
+  position: relative;
+  left: -20px;
+
+}
 
 .poem {
   color: white;

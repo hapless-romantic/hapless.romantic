@@ -1,11 +1,3 @@
-Flip cover cards to see Date it was posted and the significance
-Color of back-card would be prominent color of cover cards
--------------
-Dec 7, 2020 
-Today would've been our 1 year anniversary
-* #hex code background *
--------------
-
 Increase size of emojis:
 make a new <p> for the emojis and use same css formatting as .warning
 
