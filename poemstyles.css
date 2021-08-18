@@ -8,6 +8,10 @@
   color: white;
   text-shadow:2px 2px black;
 }
+.title a {
+  text-decoration: none;
+  color: white;
+}
 
 .home {
   position: relative;
@@ -117,7 +121,7 @@ pre {
   padding: 8px 16px;
 }
 
-a:hover {
+a:hover:not(.title a) {
   background-color: #ddd;
   color: black;
 }
