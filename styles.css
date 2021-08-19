@@ -74,7 +74,7 @@ li a{
 footer {
   color:black;
   height: 70px;
-  background-color: pink;
+  background-color: rgb(255, 179, 191);
   position: relative;
   top: 100px;
 }

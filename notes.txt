@@ -1,13 +1,11 @@
 Increase size of emojis:
 make a new <p> for the emojis and use same css formatting as .warning
 
-Fix poem5 image
-
-Previous/Next styling
-
 Center the list of poem titles on main page.
 
-Fix spacing between end of poem and Songs button
+Button styling for Home and View Songs
+
+ADD ALERT (app.js) TO TELL USERS HOW TO NAVIGATE WEBSITE
 
 Add songs highlists on Insta for Texts Unsent and Pt. II
 

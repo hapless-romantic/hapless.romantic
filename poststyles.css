@@ -126,9 +126,9 @@ pre a {
   padding: 8px 16px;
 }
 
-a:hover:not(.title a) {
-  background-color: #ddd;
-  color: black;
+a:hover:not(.title a, .home a, .songs a) {
+  background-color: black;
+  color: white;
 }
 
 .previous {
