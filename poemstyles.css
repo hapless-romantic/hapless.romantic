@@ -36,6 +36,8 @@ body {
   perspective: 1000px;
   position: relative;
   top: 60px;
+  align-content: center;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
@@ -125,7 +127,7 @@ a:hover:not(.title a) {
 }
 
 .previous {
-  background-color: #f1f1f1;
+  background-color: white;
   color: black;
   margin-right: 80px;
   position: relative;
@@ -133,8 +135,8 @@ a:hover:not(.title a) {
 }
 
 .next {
-  background-color: #04AA6D;
-  color: white;
+  background-color: white;
+  color: black;
   margin-right: 25px;
   position: relative;
   bottom: -19px;
@@ -144,7 +146,7 @@ footer {
   color:black;
   height: 70px;
   text-align: center;
-  background-color: pink;
+  background-color: rgb(255, 179, 191);
   position: relative;
   top: 100px;
 }
