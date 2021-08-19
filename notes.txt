@@ -2,7 +2,6 @@ Increase size of emojis:
 make a new <p> for the emojis and use same css formatting as .warning
 
 Fix poem5 image
-Fix poststyles.css scroll to the right
 
 Previous/Next styling
 
