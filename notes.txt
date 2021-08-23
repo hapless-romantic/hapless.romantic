@@ -5,8 +5,4 @@ Center the list of poem titles on main page.
 
 Button styling for Home and View Songs
 
-ADD ALERT (app.js) TO TELL USERS HOW TO NAVIGATE WEBSITE
-
-Add songs highlists on Insta for Texts Unsent and Pt. II
-
 change scroll bar to be a broken heart?
