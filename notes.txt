@@ -1,7 +1,8 @@
 Center the list of poem titles on main page.
 (just control the left positioning)
 
-change scroll bar to be a broken heart?
+Make repo public, post website (netlify), and tranfer repo to new organization
+https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/transferring-a-repository
 
 -------------------------------------------------
 delete practice.html (and all other extra files) when done with the project
