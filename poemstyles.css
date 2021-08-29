@@ -15,13 +15,23 @@
 
 .home {
   position: relative;
-  top: -50px;
-  color: white;
-  text-decoration: none;
-  margin-left: 2%;
+  top: -60px;
+  background-color: white;
+  margin-left: 3%;
+  display: inline-block;
+  border: none;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 7px 0px;
 }
 .home a {
   text-decoration: none;
+  padding: 8px 20px;
+  color: black;
+  cursor: pointer;
+  position: relative;
+  transition: 0.2s;
 }
 
 body {
@@ -83,7 +93,7 @@ body {
 pre {
   color: white;
   text-align: center;
-  margin-bottom: 100px; 
+  /* margin-bottom: 100px;  */
   font-family: 'Times New Roman', Times, serif;
 }
 
@@ -96,10 +106,17 @@ pre {
   text-align: center;
   position: relative;
   top: 60px;
-
+  background-color: white;
+  border: none;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 7px 0px;
 }
 .songs a {
   text-decoration: none;
+  padding: 8px 20px;
+  color: black;
+  cursor: pointer;
 }
 
 .warning {
@@ -121,7 +138,7 @@ pre {
   padding: 8px 16px;
 }
 
-a:hover:not(.title a, .home a, .songs a) {
+a:hover:not(.title a, .songs a) {
   background-color: black;
   color: white;
 }

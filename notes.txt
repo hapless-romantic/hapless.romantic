@@ -1,8 +1,7 @@
-Increase size of emojis:
-make a new <p> for the emojis and use same css formatting as .warning
-
 Center the list of poem titles on main page.
-
-Button styling for Home and View Songs
+(just control the left positioning)
 
 change scroll bar to be a broken heart?
+
+-------------------------------------------------
+delete practice.html (and all other extra files) when done with the project
