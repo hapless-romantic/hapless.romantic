@@ -1,7 +1,9 @@
 Center the list of poem titles on main page.
 (just control the left positioning)
 
+Ayush's Notes:
+- increase font size of titles on poem pages
+- 
+
 -------------------------------------------------
 delete all comments (if you want, idc)
-
-Make repo public, post website (netlify)
