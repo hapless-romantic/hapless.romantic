@@ -1,6 +1,0 @@
-Center the list of poem titles on main page.
-(just control the left positioning)
- 
-
--------------------------------------------------
-delete all comments (if you want, idc)
