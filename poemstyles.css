@@ -186,7 +186,7 @@ footer {
 }
 
 @media screen and (max-width: 414px) {
-  .title .long {
+  .title {
     display: flex;
     font-size: 25px;
     overflow-wrap: break-word;
