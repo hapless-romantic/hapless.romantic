@@ -1,6 +1,7 @@
 To Do List:
 
-1. Fix all CSS pages &rarr; reformatted to a mobile view
+1. reduce content in initial alert
+2. check if reducing size of poem div allows text to be automatically reformatted
 2. fix text margin on poem 5, poem 11,12
 3. Design new main page in html; potential design:
 
