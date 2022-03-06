@@ -1,6 +1,6 @@
 To Do List:
 
-1. reduce content in initial alert
+<!-- 1. Add captions in [modals](https://www.w3schools.com/howto/howto_css_modals.asp) -->
 2. check if reducing size of poem div allows text to be automatically reformatted
 2. fix text margin on poem 5, poem 11,12
 3. Design new main page in html; potential design:
